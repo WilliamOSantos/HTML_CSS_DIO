@@ -13,7 +13,7 @@ O Html foi criado pelo Tim Berners-lee, quando ele viu a necessidade de comparti
 
 ---
 
-### 📃 Semântica
+### Semântica
 
 ✔️ `<section>` seção genérica de conteúdo <br>
 ✔️ `<article>` representa um conteúdo relevante em uma página <br>
@@ -26,7 +26,7 @@ O Html foi criado pelo Tim Berners-lee, quando ele viu a necessidade de comparti
 2º target - define como o link será aberto `target = "_blank"` o "_blank" define que o link deve ser aberto em outra guia do navegador.
 
 ---
-### Como inserir imagens em seu site
+### 🖨Como inserir imagens em seu site
 
 ✔️O elemento `<img>` possui apenas dois atributos próprios <br>
 1° - src (obrigatório) - guarda o caminho da imagem <br>
